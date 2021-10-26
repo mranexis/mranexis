@@ -5,4 +5,4 @@ About me :
 
 What do I do? :
 - I upload youtube videos !
-- Interested in Discord Development & Phone Apps Development.
+- Interested in Discord Development & Technology stuffs .
